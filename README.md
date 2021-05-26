@@ -25,7 +25,7 @@ Table of Contents for small projects
 
 #### Dynamic Basic Form
 * [Repo](https://github.com/miabueno/es6-spread-operator)
-* [Demo](codesandbox.io/s/github/miabueno/es6-spread-operator)
+* [Demo](https://codesandbox.io/s/github/miabueno/es6-spread-operator)
 
 #### To-do list
 * [Repo](https://github.com/miabueno/todo-list-component-tree)
