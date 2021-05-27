@@ -3,6 +3,10 @@ Table of Contents for small projects
 
 ## JavaScript
 
+#### Custom Countdown
+* [Repo](https://github.com/miabueno/custom-countdown)
+* [Demo](https://miabueno.github.io/custom-countdown/)
+
 #### Infinite Scroll
 * [Repo](https://github.com/miabueno/infinite-scroll)
 * [Demo](https://miabueno.github.io/infinite-scroll/)
